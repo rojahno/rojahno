@@ -2,14 +2,11 @@
 
  My name is Andreas Sunde. I'm a computer science student at NTNU in Trondheim, Norway, and majors in artificial intelligence.
 
-### Some projects i'm proud of:
+## Some projects i'm proud of:
 
 [![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=Rojos&theme=dark)](https://github.com/rojahno/github-readme-stats)
---
+-
 [![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=a-star-pathfinding&theme=dark)](https://github.com/rojahno/github-readme-stats)
---
+-
 [![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=Enabled-desktop&theme=dark)](https://github.com/rojahno/github-readme-stats)
-
-
-### My most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojahno&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+-
