@@ -1,16 +1,20 @@
-### Hi there 👋
+# About me
 
-<!--
-**rojahno/rojahno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ My name is Andreas Sunde. I'm a computer science student at NTNU in Trondheim, Norway, and majors in artificial intelligence.
 
-Here are some ideas to get you started:
+### Some projects i'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=Rojos&theme=dark)](https://github.com/rojahno/github-readme-stats)
+--
+[![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=a-star-pathfinding&theme=dark)](https://github.com/rojahno/github-readme-stats)
+--
+[![Rojos - React component library](https://github-readme-stats.vercel.app/api/pin/?username=rojahno&repo=Enabled-desktop&theme=dark)](https://github.com/rojahno/github-readme-stats)
+
+
+### My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rojahno&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### My stats
+![Rojahnis's GitHub stats](https://github-readme-stats.vercel.app/api?username=rojahno&show_icons=true&theme=dark)
+
